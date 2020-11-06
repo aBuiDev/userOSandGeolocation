@@ -1,5 +1,5 @@
 ### @aBuiDev's
-# Gaming Element
+# PC Element
 
 <br>
 
@@ -112,7 +112,7 @@ This situation mainly affords to three unique cases:
 
 <br>
 
-These situations create an opportunity for consumers to be able to resell their old video cards/gaming computer tech. For instance, instead of putting their video card to waste, consumer one can resell it to someone like consumer two who wants to purchase another identical graphics card and consumer one's could be it. 
+These situations create an opportunity for consumers to be able to resell their old video cards/gaming computer tech/computer tech. For instance, instead of putting their video card to waste, consumer one can resell it to someone like consumer two who wants to purchase another identical graphics card and consumer one's could be it. 
 
 #
 
@@ -121,15 +121,15 @@ These situations create an opportunity for consumers to be able to resell their 
 ## **R8** | Why is it a problem that needs solving?:
 ####
 
-The problem:
+**The problem:**
 
 Currently, there are no second-hand computer part retailers besides actual retail stores like MWAVE who have a small section dedicated to refurbished goods (not second-hand goods). Larger companies like PC Case Gear (one of Australia's largest online computer retailers) don't even have a section dedicated to moving second-hand goods. PC Case Gear also only offer a minimal amount of refurbished goods.
 
-Currently, the best place to buy second-hand parts is on Gumtree or eBay, but navigating through a plethora of computer parts is difficult - especially with no proper detailed filtration systems to find specific computer components. eBay's filtration system is sound; however, there are a limited amount of second-hand gaming goods being sold over eBay. Gumtree's simple interface doesn't allow sellers to output the full details required to 'sell' their items - which can deter buyers as it may be more difficult for them to find what they are specifically after, i.e. consumer two might have a much older generation card that was part of a minimal release, i.e. the GTX 970 turbo. These were unique cards with special cooling systems that were released at a limited quantity, finding one today on Gumtree or eBay for SLI purposes would be extremely difficult.
+Currently, the best place to buy second-hand parts is on Gumtree, eBay or Facebook, but navigating through a plethora of computer parts is difficult - especially with no proper detailed filtration systems to find specific computer components. eBay's filtration system is sound; however, there are a limited amount of second-hand pc goods being sold over eBay. Gumtree's simple interface doesn't allow sellers to output the full details required to 'sell' their items - which can deter buyers as it may be more difficult for them to find what they are specifically after, i.e. consumer two might have a much older generation card that was part of a minimal release, i.e. the GTX 970 turbo. These were unique cards with special cooling systems that were released at a limited quantity, finding one today on Gumtree or eBay for SLI purposes would be extremely difficult.
 
-The solution:
+**The solution:**
 
-Gaming Element aims to streamline the buying and selling of second-hand computer parts.
+PC Element aims to streamline the buying, selling and trading of second-hand computer parts.
 
 #
 
@@ -193,26 +193,69 @@ Gaming Element aims to streamline the buying and selling of second-hand computer
 ## **R12** | User stories for your app:
 ####
 
+**USER:** <br>
+
+- As a user, I want to feel unique and only identified by my nick name.
+- As a user, I want to have control of all my account details with regards to what people can and cannot see.
+- As a user, I want to feel like my identity and my details are safe.
+- As a user, I want to be able to easily logout of my account.
+- As a user, I want to be able to easily contact other users.
+- As a user, I want to be able to make friends with other users.
+- As a user, I want to be able to easily navigate to my account information to edit and update my details.
+- As a user, I want to sell a product of buy a product seamlessly without having to switch between two different accounts.
+- As a user, I want the ability to trade with other users.
+- As a user, I want to have a viewable profile that I can edit, stylise and update.
+- As a user, I want to have a my own unique profile page that showcases all my details including how many sales I have made, how many items I have bought, my overall rating and how many trades I have made.
+- As a user, I want to be able to offer a breif description of myself.
+- As a user, I want to manage my own display picture.
+- As a user, I want to block another user from contacting me.
+- As a user, I don't want anyone else to be able to access my account but me.
+
+<br>
+
 **BUYER:** <br>
+
+- As a buyer, I want to switch between being a buyer or seller seamlessly.
+- As a buyer, I want to easily log into my account using my email, username or mobile as well as a password.
+- As a buyer, I do not want to be distinguished as either a buyer or seller but as both.
+- As a buyer, I want a streamlined and easy buying experience.
+- As a buyer, I want to know that I can trust other users who are selling products.
+- As a buyer, I want to be able to add items to a watch list.
+- As a buyer, I want to easily communicate with a listings seller.
+- As a buyer, I want to be able to easily view my transaction history.
 
 <br>
 
 **SELLER:** <br>
 
+- As a seller, I want to switch between being a buyer or seller seamlessly.
+- As a seller, I want to easily log into my account using my email, username or mobile as well as a password.
+- As a seller, I want do not want to be distinguished as either a buyer or seller but as both.
+- As a seller, I want to be able to let other users know if I am willing to trade the item I have up for sale or not.
+- As a seller, I want to be able to easily delete or edit my listing.
+- As a seller, I want a streamlined and easy selling experience.
+- As a seller, I want to know that I can trust other users.
+- As a seller, I want to easily communicate with a listings seller.
+- As a seller, I want to be able to easily view my transaction history.
+
 <br>
 
-**BROWSER:** <br>
+**BROWSER/VISITOR:** <br>
 
 - As a user browsing the web app, I want to be able to easily see all the navigational elements of the web app as soon as I load the web application.
 - As a user browsing the web app, I want to recognise how to use the application without having to spend too much time trying to understand the structure and layout of the web application first.
 - As a user browsing the web app, I want to have fun interacting with the different elements of the web application.
 - As a user browsing the web app, I want to feel like I am not the only person browsing this web application and that I am aware of other people also interacting with this web application.
-- As a user browsing the web app, I want to setup an account with this web application easily.
+- As a user browsing the web app, I want to set up an account with this web application effortlessly.
 - As a user browsing the web app, I want to navigate through all the listings without having to sign up first.
-- As a user browsing the web app, I want to filter through diffrent categories of items easily.
+- As a user browsing the web app, I want to filter through different categories of items quickly.
 - As a user browsing the web app, I want to add items to my cart without having to sign up first.
 - As a user browsing the web app, I want to interact with someone directly via an online chat.
-- As a user browsing the web app, I want to immediately feel I can trust this website. 
+- As a user browsing the web app, I want to feel I can trust this website immediately. 
+- As a user browsing the web app, I want to understand the critical information about a listing straight away.
+- As a user browsing the web app, I want to know I can trust a listing by seeing a sellers rating or reputation.
+- As a user browsing the web app, I won't be able to contact a seller unless I create an account and login.
+- As a user browsing the web app, I want to be able to view deals and specials offered by the business.
 
 <br>
 
