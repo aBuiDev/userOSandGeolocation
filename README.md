@@ -112,7 +112,14 @@ This situation mainly affords to three unique cases:
 
 <br>
 
-These situations create an opportunity for consumers to be able to resell their old video cards/gaming computer tech. For instance, instead of putting their video card to waste, consumer one can resell it to someone like consumer two who wants to purchase another identical. 
+These situations create an opportunity for consumers to be able to resell their old video cards/gaming computer tech. For instance, instead of putting their video card to waste, consumer one can resell it to someone like consumer two who wants to purchase another identical graphics card and consumer one's could be it. 
+
+#
+
+<br>
+
+## **R8** | Why is it a problem that needs solving?:
+####
 
 The problem:
 
@@ -123,13 +130,6 @@ Currently, the best place to buy second-hand parts is on Gumtree or eBay, but na
 The solution:
 
 Gaming Element aims to streamline the buying and selling of second-hand computer parts.
-
-#
-
-<br>
-
-## **R8** | Why is it a problem that needs solving?:
-####
 
 #
 
