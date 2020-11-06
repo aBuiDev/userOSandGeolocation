@@ -171,6 +171,13 @@ Gaming Element aims to streamline the buying and selling of second-hand computer
 
 - **Target audience:**
 
+    Target audience includes:
+    - Gamers
+    - PC Enthusiasts
+    - Hobbyist PC Builders
+    - Computer Modders
+    - Savvy Consumers
+
 <br>
 
 - **Tech stack (e.g. html, css, deployment platform, etc):**
@@ -186,15 +193,26 @@ Gaming Element aims to streamline the buying and selling of second-hand computer
 ## **R12** | User stories for your app:
 ####
 
-**BUYER** <br>
+**BUYER:** <br>
 
 <br>
 
-**SELLER** <br>
+**SELLER:** <br>
 
 <br>
 
-**BROWSER** <br>
+**BROWSER:** <br>
+
+- As a user browsing the web app, I want to be able to easily see all the navigational elements of the web app as soon as I load the web application.
+- As a user browsing the web app, I want to recognise how to use the application without having to spend too much time trying to understand the structure and layout of the web application first.
+- As a user browsing the web app, I want to have fun interacting with the different elements of the web application.
+- As a user browsing the web app, I want to feel like I am not the only person browsing this web application and that I am aware of other people also interacting with this web application.
+- As a user browsing the web app, I want to setup an account with this web application easily.
+- As a user browsing the web app, I want to navigate through all the listings without having to sign up first.
+- As a user browsing the web app, I want to filter through diffrent categories of items easily.
+- As a user browsing the web app, I want to add items to my cart without having to sign up first.
+- As a user browsing the web app, I want to interact with someone directly via an online chat.
+- As a user browsing the web app, I want to immediately feel I can trust this website. 
 
 <br>
 
