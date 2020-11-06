@@ -100,7 +100,7 @@
 ## **R7** | Identification of the problem you are trying to solve by building this particular marketplace app:
 ####
 
-Currently, there are no online platforms specifically developed for users to buy and sell gaming pc parts. PC components, especially gaming components, become obsolete quickly. For example, a little over a year ago, NVIDIA released their first RTX series graphic cards, however recently (October 2020), a new generation of RTX graphic cards have now been released - rendering the first generation of RTX cards obsolete. In some years, the release of new graphics cards could cause the latest generation of technology to be outdated after only six months. With the introduction of NVIDIA's ray tracing technology, all previous generation cards (the GTX series) are now considered obsolete due to the influx of new generation gaming that adopts ray-tracing.
+Currently, there are no online platforms specifically developed for users to buy and sell second-hand gaming pc parts. PC components, especially gaming components, become obsolete quickly. For example, a little over a year ago, NVIDIA released their first RTX series graphic cards, however recently (October 2020), a new generation of RTX graphic cards have now been released - rendering the first generation of RTX cards obsolete/outdated. The first generation of RTX card leading the market for a year is actually a long time compared to other years. In some years, the release of new graphics cards could cause the latest generation of technology to be outdated after only six months. With the introduction of NVIDIA's ray tracing technology, all previous generation cards (the GTX series) are now considered obsolete due to the influx of new generation gaming that adopts ray-tracing.
 
 <br>
 
@@ -123,7 +123,7 @@ These situations create an opportunity for consumers to be able to resell their 
 
 The problem:
 
-Currently, there are no excellent second-hand computer part retailers besides actual retail stores like MWAVE who have a small section dedicated to refurbished goods (not second-hand goods). Larger companies like PC Case Gear (one of Australia's largest online computer retailers) don't even have a section dedicated to moving second-hand goods with a minimal amount of refurbished goods. 
+Currently, there are no second-hand computer part retailers besides actual retail stores like MWAVE who have a small section dedicated to refurbished goods (not second-hand goods). Larger companies like PC Case Gear (one of Australia's largest online computer retailers) don't even have a section dedicated to moving second-hand goods. PC Case Gear also only offer a minimal amount of refurbished goods.
 
 Currently, the best place to buy second-hand parts is on Gumtree or eBay, but navigating through a plethora of computer parts is difficult - especially with no proper detailed filtration systems to find specific computer components. eBay's filtration system is sound; however, there are a limited amount of second-hand gaming goods being sold over eBay. Gumtree's simple interface doesn't allow sellers to output the full details required to 'sell' their items - which can deter buyers as it may be more difficult for them to find what they are specifically after, i.e. consumer two might have a much older generation card that was part of a minimal release, i.e. the GTX 970 turbo. These were unique cards with special cooling systems that were released at a limited quantity, finding one today on Gumtree or eBay for SLI purposes would be extremely difficult.
 
@@ -185,6 +185,18 @@ Gaming Element aims to streamline the buying and selling of second-hand computer
 
 ## **R12** | User stories for your app:
 ####
+
+**BUYER** <br>
+
+<br>
+
+**SELLER** <br>
+
+<br>
+
+**BROWSER** <br>
+
+<br>
 
 #
 
