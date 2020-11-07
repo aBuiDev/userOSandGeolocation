@@ -273,6 +273,8 @@ PC Element aims to streamline the buying, selling and trading of second-hand com
 ## **R14** | An ERD for your app:
 ####
 
+![img](./public/erd_00.svg)
+
 #
 
 <br>
