@@ -1,5 +1,5 @@
 ### @aBuiDev's
-# PC Element
+# Compute Common
 
 <br>
 
@@ -129,7 +129,7 @@ Currently, the best place to buy second-hand parts is on Gumtree, eBay or Facebo
 
 **The solution:**
 
-PC Element aims to streamline the buying, selling and trading of second-hand computer parts.
+Compute Common aims to streamline the buying, selling and trading of second-hand computer parts.
 
 #
 
@@ -177,6 +177,8 @@ PC Element aims to streamline the buying, selling and trading of second-hand com
     - Hobbyist PC Builders
     - Computer Modders
     - Savvy Consumers
+    - Consumer looking for a good deal
+    - Consumer looking for computer parts
 
 <br>
 
