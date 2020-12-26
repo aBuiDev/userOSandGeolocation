@@ -14,18 +14,18 @@
   flex-direction: row;
 }
 
+.geolocationLongitude,
+.geolocationLatitude,
 .operatingSystemOutput {
   margin: 10px;
   width: 300px;
   height: 100px;
   border: 1px solid #fff;
-}
-
-.geolocationOutput {
-  margin: 10px;
-  width: 300px;
-  height: 100px;
-  border: 1px solid #fff;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .button {
